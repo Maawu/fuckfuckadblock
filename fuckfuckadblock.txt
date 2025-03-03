@@ -30,8 +30,10 @@
 |http*:*/blockadblock.$redirect=fuckadblock.js-3.2.0,script
 |http*:*/fuckadblock-$redirect=fuckadblock.js-3.2.0,script
 |http*:*/fuckadblock.$redirect=fuckadblock.js-3.2.0,script
+||static.surfe.pro/js/net.js$script,redirect-rule=noopjs
 
 ! XMLHTTPREQUEST START
+||static.surfe.pro/js/net.js$xmlhttprequest,redirect-rule=nooptext
 ||srtb.msn.com^$xmlhttprequest,redirect-rule=nooptext
 ||googletagmanager.com/gtag/$redirect-rule=googletagmanager_gtm.js,xmlhttprequest
 ||googletagmanager.com/gtm.js$redirect-rule=googletagmanager_gtm.js,xmlhttprequest
