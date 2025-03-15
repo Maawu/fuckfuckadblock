@@ -261,3 +261,6 @@ rsfaucet.com##+js(noeval, DOMContentLoaded, showModal)
 
 ! helpfpcoin.site
 helpfpcoin.site##+js(noeval, DOMContentLoaded, showModal)
+
+! exe.io
+exe.io,exnion.com##+js(nowoif)
