@@ -63,6 +63,7 @@
 
 ! EMPTY START
 ||magsrv.com^$empty
+||czilladx.com^$empty
 
 ! expressurl.net
 @@*$domain=expressurl.net,generichide
@@ -264,3 +265,18 @@ helpfpcoin.site##+js(noeval, DOMContentLoaded, showModal)
 
 ! exe.io
 exe.io,exnion.com##+js(nowoif)
+
+! gplinks.co
+gplinks.co##+js(no-xhr-if, googlesyndication)
+
+! bestpayingfaucet.online
+bestpayingfaucet.online##+js(noeval, DOMContentLoaded, showModal)
+
+! faucetbux.click
+faucetbux.click##+js(noeval, DOMContentLoaded, showModal)
+
+! oko.sh
+tpi.li,oii.la,tvi.la,oko.sh,lnbz.la##+js(nowoif)
+
+! easyshort.xyz
+easyshort.xyz##+js(noeval, DOMContentLoaded, showModal)
