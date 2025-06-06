@@ -1,4 +1,4 @@
-! Title: Fuck Fuckadblock
+! Title: Fodese adblock
 ! Description: Filters for blocking pop-ups and anti-adblock bypass
 ! Author: Bogachenko Vyacheslav
 ! Expires: 3 days
